@@ -1,0 +1,1 @@
+var <i class="fa fa-hourglass-start" aria-hidden="true"></i>
